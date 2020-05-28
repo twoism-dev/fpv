@@ -1,6 +1,6 @@
 # Gopro
 
-## Flight settings
+## Flight settings (Hero6)
 
 * 4:3 aspect ratio
 * 2.7k
