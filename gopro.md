@@ -9,3 +9,5 @@
 * GoPro Pro Res Flat Color Profile
 * ND Filter (use brightest part of image)
 * Sharpness Medium
+
+http://paulnurkkala.com/creating-gopro-superview-out-of-43-footage/
